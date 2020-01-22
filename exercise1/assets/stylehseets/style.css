@@ -57,3 +57,10 @@ table {
 .contact{
     background: brown;
 }
+#navbar{
+	font-size: 22px;
+	color: white;
+}
+#navbar a{
+	color: white;
+}

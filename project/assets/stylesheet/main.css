@@ -93,9 +93,11 @@ h4 {
 p {
     padding-top: 20px;
     padding-bottom: 20px;
-    text-align: justify;
+    text-align: left;
     padding-left: 370px ;
     padding-right: 370px;
+    font-family:Montserrat;
+    line-height: 30px;
 }
 
 img {
@@ -119,7 +121,7 @@ footer {
 }
 h2{
     text-align: left;
-    padding-left: 350px;
+    padding-left: 370px;
 }
 h4{
     text-align: left;
@@ -128,4 +130,16 @@ h4{
 h3{
     text-align: left;
     padding-left: 370px;
+}
+hr{
+    width: 50%;
+}
+.date{
+    color: blue;
+    font-size: 18px;
+    text-align: left;
+    padding-left: 370px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-top: 15px;
 }
